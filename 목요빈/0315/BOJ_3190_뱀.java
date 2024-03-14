@@ -3,7 +3,7 @@ package self.march._0313;
 import java.io.*;
 import java.util.*;
 
-public class 뱀 {
+public class BOJ_3190_뱀 {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
